@@ -1,3 +1,3 @@
 # OpenCV-Training-Repository
 1. This repository contains a collection of Python codes for training in OpenCV.  The codes are designed to be easy to understand and follow, even for beginners. They are also well-commented, so you just need to now some python basics and you ready to use these codes. I hope you find this repository useful!
-2. Due to GitHub's upload limits, some of the videos and images used in this project cannot be added to the repository. Unfortunately, you will need to add a compatible image or video to the code when you want to use it.  
+2. Due to GitHub's upload limits, some of the videos and images used in this project cannot be added to the repository. Therefor you need to upload from [this](https://mega.nz/file/o7FWXJAJ#xBWiusgX5rPMvxQ5X2sU3__aU2Xusp91XPgC75jYfOo) link and put the right directory
